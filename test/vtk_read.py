@@ -2,7 +2,6 @@
 # coding=utf-8
 # @IDE    :PyCharm
 # @File   :vtk_read.py
-# @author :雷国栋
 # @Date   :2019/5/8
 
 import vtk
