@@ -2,7 +2,6 @@
 # coding=utf-8
 # @IDE    :PyCharm
 # @File   :nii_seg_test.py
-# @author :雷国栋
 # @Date   :2019/5/9
 
 import SimpleITK as sitk
