@@ -2,7 +2,6 @@
 # coding=utf-8
 # @IDE    :PyCharm
 # @File   :data_ready.py
-# @author :雷国栋
 # @Date   :2019/4/21
 
 import random
