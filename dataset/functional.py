@@ -2,7 +2,6 @@
 # coding=utf-8
 # @IDE    :PyCharm
 # @File   :functional.py
-# @author :雷国栋
 # @Date   :2019/4/4
 '''
 pytorch内置函数
