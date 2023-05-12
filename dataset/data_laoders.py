@@ -2,7 +2,6 @@
 # coding=utf-8
 # @IDE    :PyCharm
 # @File   :data_laoders.py
-# @author :雷国栋
 # @Date   :2019/4/5
 import os
 import random
