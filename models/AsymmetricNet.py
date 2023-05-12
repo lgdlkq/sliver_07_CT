@@ -2,7 +2,6 @@
 # coding=utf-8
 # @IDE    :PyCharm
 # @File   :AsymmetricNet.py
-# @author :雷国栋
 # @Date   :2019/6/4
 
 from collections import OrderedDict
