@@ -2,7 +2,6 @@
 # coding=utf-8
 # @IDE    :PyCharm
 # @File   :nt.py
-# @author :雷国栋
 # @Date   :2019/5/16
 
 from vtk.util.vtkImageImportFromArray import *
