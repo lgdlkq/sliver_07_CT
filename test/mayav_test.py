@@ -2,7 +2,6 @@
 # coding=utf-8
 # @IDE    :PyCharm
 # @File   :mayav_test.py
-# @author :雷国栋
 # @Date   :2019/4/27
 
 import SimpleITK as sitk
