@@ -2,7 +2,6 @@
 # coding=utf-8
 # @IDE    :PyCharm
 # @File   :AdaBound.py
-# @author :雷国栋
 # @Date   :2019/4/6
 '''
 一种改进的开源优化器方法
