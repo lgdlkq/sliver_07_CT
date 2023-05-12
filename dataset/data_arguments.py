@@ -2,7 +2,6 @@
 # coding=utf-8
 # @IDE    :PyCharm
 # @File   :dataargument_test.py
-# @author :雷国栋
 # @Date   :2019/4/3
 '''
 重写pytorch的部分数据提升方法，便于实现vol和seg_mask做相同的数据提升操作
